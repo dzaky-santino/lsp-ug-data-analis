@@ -41,7 +41,7 @@ Jika kamu ingin menjalankan notebook ini di Google Colab, ikuti langkah-langkah 
    - Pilih tab `GitHub`.
    - Masukkan URL repositori GitHub ini: 
      ``` 
-     https://github.com/dzaky-santino/LSP-UG-DATA-ANALIS 
+     https://github.com/dzaky-santino/lsp-ug-data-analis 
      ```
    - Pilih notebook yang ingin dijalankan (`scraping_data.ipynb` atau `cleaning_data.ipynb`).
 
